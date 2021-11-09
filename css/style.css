@@ -1,0 +1,16 @@
+body {
+    background-color: #EEEEEE;
+    position: relative;
+}
+
+a1 {
+    color: #14279B;
+}
+
+.logo {
+    border-radius: 5px;
+}
+
+.bg-custom-darkblue {
+    background-color: #787A91;
+}
